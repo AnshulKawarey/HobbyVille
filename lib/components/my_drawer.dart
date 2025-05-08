@@ -55,6 +55,13 @@ class MyDrawer extends StatelessWidget {
                   title: "S E T T I N G S",
                 ),
 
+                MyDrawerTile(
+                  icon: Icons.person,
+                  onTap: (){
+                    
+                  },
+                ),
+
                 const Spacer(),
 
                 //logout button
